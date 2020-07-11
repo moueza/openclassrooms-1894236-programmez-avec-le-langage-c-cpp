@@ -1,6 +1,12 @@
-#include <iostream>
-using namespace std;
+#include <iostream>// Inclut la bibliothèque iostream (affichage de texte)
 
+using namespace std;// Indique quel espace de noms on va utiliser
+
+
+/*
+  Fonction principale "main"
+  Tous les programmes commencent par la fonction main
+*/
 int main()
 {
   /*lines*/
