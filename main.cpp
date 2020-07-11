@@ -3,8 +3,19 @@ using namespace std;
 
 int main()
 {
-  cout<<"Hello world !"<<endl;
+  /*lines*/
+  cout << "Bonjour tout le monde !" << endl << "Comment allez-vous ?" << endl;
 
-  //system("PAUSE");
+
+  
+  //cout << """ << endl;
+  //cout << "\" << endl;
+
+
+  /*escaped special characters*/
+  cout << "Je fais des tests pour apprendre le C++ !" << endl;
+
+  cout << "\"" << endl;
+  cout << "\\" << endl;
   return 0;
 }
